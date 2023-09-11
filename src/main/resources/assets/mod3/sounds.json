@@ -1,0 +1,29 @@
+
+{
+  "player_is_sneaking": {
+    "subtitle": "subtitles.person98.player_is_sneaking",
+    "sounds": [
+      "mod3:player_is_sneaking"
+    ]
+  },
+    "player_is_walking": {
+        "subtitle": "subtitles.person98.player_is_walking",
+        "sounds": [
+        "mod3:player_is_walking"
+        ]
+    },
+
+    "player_is_running": {
+        "subtitle": "subtitles.person98.player_is_running",
+        "sounds": [
+        "mod3:player_is_running"
+        ]
+    },
+
+    "player_is_jumping": {
+        "subtitle": "subtitles.person98.player_is_jumping",
+        "sounds": [
+        "mod3:player_is_jumping"
+        ]
+    }
+}
