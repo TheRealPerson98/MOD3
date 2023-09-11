@@ -1,6 +1,14 @@
 {
   "subtitles.person98.player_is_sneaking": "Player is sneaking",
-  "subtitles.person98.player_is_walking": "Player is walking",
-  "subtitles.person98.player_is_running": "Player is running",
-  "subtitles.person98.player_is_jumping": "Player is jumping"
+  "subtitles.person98.player_is_jumping": "Player is jumping",
+  "subtitles.person98.player_broke_block": "Player is breaking block",
+  "subtitles.person98.player_placed_block": "Player is placing a block",
+  "subtitles.person98.player_kill_entity": "Player killed entity",
+  "subtitles.person98.player_hit_entity": "Player hit entity",
+  "subtitles.person98.player_death": "Player died",
+  "subtitles.person98.player_farted_eww": "Player farted... eww",
+  "subtitles.person98.player_is_sus": "Player is sus",
+  "subtitles.person98.player_is_cute": "Player is cute",
+  "subtitles.person98.subscribe_to_coreytonge": "Subscribe to coreytonge!",
+  "subtitles.person98.fitnessgram_pacer_test": "Fitnessgram pacer test"
 }

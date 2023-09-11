@@ -6,24 +6,71 @@
       "mod3:player_is_sneaking"
     ]
   },
-    "player_is_walking": {
-        "subtitle": "subtitles.person98.player_is_walking",
-        "sounds": [
-        "mod3:player_is_walking"
-        ]
-    },
-
-    "player_is_running": {
-        "subtitle": "subtitles.person98.player_is_running",
-        "sounds": [
-        "mod3:player_is_running"
-        ]
-    },
 
     "player_is_jumping": {
         "subtitle": "subtitles.person98.player_is_jumping",
         "sounds": [
         "mod3:player_is_jumping"
         ]
-    }
+    },
+  "player_broke_block": {
+    "subtitle": "subtitles.person98.player_broke_block",
+    "sounds": [
+      "mod3:player_broke_block"
+    ]
+  },
+    "player_placed_block": {
+        "subtitle": "subtitles.person98.player_placed_block",
+        "sounds": [
+        "mod3:player_placed_block"
+        ]
+    },
+  "player_kill_entity": {
+      "subtitle": "subtitles.person98.player_kill_entity",
+      "sounds": [
+      "mod3:player_kill_entity"
+      ]
+  },
+  "player_hit_entity": {
+      "subtitle": "subtitles.person98.player_hit_entity",
+      "sounds": [
+      "mod3:player_hit_entity"
+      ]
+  },
+    "player_death": {
+        "subtitle": "subtitles.person98.player_death",
+        "sounds": [
+        "mod3:player_death"
+        ]
+    },
+  "player_farted_eww": {
+      "subtitle": "subtitles.person98.player_farted_eww",
+      "sounds": [
+      "mod3:player_farted_eww"
+      ]
+  },
+  "player_is_sus": {
+      "subtitle": "subtitles.person98.player_is_sus",
+      "sounds": [
+      "mod3:player_is_sus"
+      ]
+  },
+  "player_is_cute": {
+      "subtitle": "subtitles.person98.player_is_cute",
+      "sounds": [
+      "mod3:player_is_cute"
+      ]
+  },
+  "subscribe_to_coreytonge": {
+      "subtitle": "subtitles.person98.subscribe_to_coreytonge",
+      "sounds": [
+      "mod3:subscribe_to_coreytonge"
+      ]
+  },
+  "fitnessgram_pacer_test": {
+      "subtitle": "subtitles.person98.fitnessgram_pacer_test",
+      "sounds": [
+      "mod3:fitnessgram_pacer_test"
+      ]
+  }
 }

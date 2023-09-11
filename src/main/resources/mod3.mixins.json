@@ -3,6 +3,8 @@
 	"package": "com.person98.mod3.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
+		"LivingEntityMixin"
+
 	],
 	"injectors": {
 		"defaultRequire": 1
